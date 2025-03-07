@@ -123,6 +123,8 @@ Pod::Spec.new do |spec|
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
+  spec.vendored_frameworks =  'WebRTC.framework,CCAdapter.framework,FineSdk.framework,GSCloudSdk.framework,Net263LogCollectSDK.framework'
+
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
