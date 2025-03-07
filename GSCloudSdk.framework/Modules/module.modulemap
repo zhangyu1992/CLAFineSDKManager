@@ -1,0 +1,6 @@
+framework module GSCloudSdk {
+  umbrella header "GSCloudSdk.h"
+
+  export *
+  module * { export * }
+}

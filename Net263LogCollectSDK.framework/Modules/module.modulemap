@@ -1,0 +1,6 @@
+framework module Net263LogCollectSDK {
+  umbrella header "Net263LogCollectSDK.h"
+
+  export *
+  module * { export * }
+}
